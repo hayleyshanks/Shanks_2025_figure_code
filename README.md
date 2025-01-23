@@ -1,2 +1,2 @@
 # Shanks_2025_figure_code
-Code to creation figures for clinical trial follow-up paper
+MATLAB and R scripts to create figures for a follow-up manuscript describing a clinical trial on p75 neurotrophin receptor modulation. Code is still a work in progress.
