@@ -13,7 +13,7 @@ pacman::p_load(rio, dplyr, ggpubr, tidyverse)
 wd <- "D:/HS3_ptx/code/R_codes/LM11A31_followup_paper/publication_quality/"
 plt_src_code <- "csf_module_template_plot.R"
 # where the final figures should be output
-fig_path <- "D:/HS3_ptx/figs_graphs/Jama_neurol_2024/csf_proteomics/module_responses/"
+fig_path <- "D:/HS3_ptx/figs_graphs/follow_up_publication/csf_proteomics/module_responses/"
 # where the spreadsheets containing the raw data are stored
 data_path <- "D:/HS3_ptx/spreadsheets/emtherapro_originals"
 # spreadsheets containing the mapping of samples to subjects & the module data itself
